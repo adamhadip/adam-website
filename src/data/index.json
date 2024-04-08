@@ -1,0 +1,67 @@
+{
+    "experience":[
+        {
+            "role": "Human Capital Analyst Intern", 
+            "company":"Sinar Mas Land", 
+            "startDate":"Dec, 2023", 
+            "endDate": "Mar, 2024", 
+            "desc": ["Analyze sales data to assess marketing-generated revenue across different business segments and evaluate year-over-year performance to ascertain if targets are being met by each unit.", "Built sales dashboards using Tableau to visualize and analyze sales data across Sinar Mas Land's business units, leading to a better understanding of customer behavior and improved sales strategies."],
+            "imageSrc": "./img/sinarmasland.png"
+        },
+        {
+            "role": "Data Analyst Intern", 
+            "company": "PT PAL INDONESIA", 
+            "startDate":"Jul, 2023",
+            "endDate":"Aug, 2023",
+            "desc":["Implemented Apache Superset to develop an interactive HCM dashboard, enabling real-time tracking of key performance indicators and resulting in an 85% increase in data-driven insights for the division.", "Summarize the acquired data to be presented to division members in order to provide insights into the data and implement it for business purposes that will result in an improvement in inventory management."],
+            "imageSrc":"./img/ptpal.png" 
+        },
+        {
+            "role":"Big Data Virtual Intern",
+            "company": "PT Kimia Farma",
+            "startDate":"Sep, 2022",
+            "endDate":"Oct, 2022",
+            "desc":["Analyzed data from data warehousing sales, customers, and items to increase 2x medicine sales within the city will be useful in improving research, development, production, and distribution of medicine.", "Designed a dashboard to provide analysis of pharmaceutical production and sales, offering insights to the marketing team using Power BI."],
+            "imageSrc":"./img/kimiafarma.png"
+        }
+    ],
+    "portfolio": [
+        {
+            "id":"1",
+            "src":"./img/2.png",
+            "title":"Sinar Mas Land Dashboard Sales all Indonesia Project", 
+            "description":"One of the portfolio that I got from my internship as Human Capital Analyst Intern at Sinar Mas Land, I was given a sales data throughout Indonesia to see the advantages and disadvantages of each project throughout Indonesia handled by Sinar Mas Land.",
+            "link": "https://public.tableau.com/views/Book1_17099718959670/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"
+        },
+        {
+            "id": "2", 
+            "src": "./img/4.png",
+            "title":"Dashboard Monitoring Kualitas Air Tambak Ikan Nila",
+            "description":"One of the researches carried out by me with the team, about Monitoring the water quality of tilapia ponds using IoT and Machine Learning, I was in charge of Project Management and Data Scientist.",
+            "link":"https://lookerstudio.google.com/reporting/c35bb677-d509-4f04-b9be-dcc5f4334cf2"
+        },
+        {
+            "id":"3",
+            "src": "./img/weather.png",
+            "title":"Weather Prediction Using 4 Machine Learning Model",
+            "description":"Data modeling using a comparison of 4 Machine Learning to predict the quality of weather around Telkom University, using Random Forest Classifier, Decision Tree Classifier, Support Vector Machine, and Logistic Regression modeling and Deploy to Streamlit.",
+            "link":"https://github.com/adamhadip/weather_station"
+        },
+        {
+            "id":"4",
+            "src":"./img/5.png",
+            "title":"Wordcloud Saham from Scrapping Data X",
+            "description":"This is one of the projects for myself which takes data from scraping on the X platform with various keywords, one of which is about stocks that are trending in the last few years. The Ouput is Visualization Chart Wordcloud and Bar Chart",
+            "link":"https://colab.research.google.com/drive/137oM-lqIYiRxGl-yMrzo8t7cGfE2JsqZ?usp=sharing"
+        },
+        {
+            "id":"5",
+            "src":"",
+            "title":"Japan Earthquake Dashboard USGS",
+            "description":"The data from USGS that I retrieved using API and cleansing data to get Prefecture, city, and History of earthquakes that occurred from 2011 to 2023, has an output in the form of a Dashboard that I will display on Tableau Public.",
+            "link":"View in Tableau"
+        }
+
+    ]
+    
+}

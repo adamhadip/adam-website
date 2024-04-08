@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Python", 
+        "imagesrc": "./img/python.png"
+    },
+    {
+        "title": "PostgreSQL", 
+        "imagesrc": "./img/postgres.png"
+    },
+    {
+        "title": "Tableau", 
+        "imagesrc": "./img/Tableau Software.svg"
+    },
+    {
+        "title": "Machine Learning", 
+        "imagesrc": "./img/ml.png"
+    },
+    {
+        "title": "Looker Studio", 
+        "imagesrc": "./img/LookerStudio.png"
+    },
+    {
+        "title": "Dbeaver", 
+        "imagesrc": "./img/dbeaver.png"
+    },
+    {
+        "title": "Excel", 
+        "imagesrc": "./img/excel.png"
+    }
+]
