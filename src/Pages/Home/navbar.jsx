@@ -12,6 +12,12 @@ function Navbar() {
     setNavActive(false);
   };
 
+  const ContactMe = () => {
+  const contactme =  
+    "https://wa.me/6281334858350";
+    window.open(contactme, "_blank");
+  };  
+
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth <= 500) {
@@ -106,7 +112,7 @@ function Navbar() {
         </ul>
       </div>
       <Link
-        onClick={closeMenu}
+        onClick={ContactMe}
         activeClass="navbar--active-content"
         spy={true}
         smooth={true}

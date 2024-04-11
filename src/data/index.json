@@ -59,7 +59,7 @@
             "src":"./img/earthquakejapan.png",
             "title":"Japan Earthquake Dashboard USGS",
             "description":"The data from USGS that I retrieved using API and cleansing data to get Prefecture, city, and History of earthquakes that occurred from 2011 to 2023, has an output in the form of a Dashboard that I will display on Tableau Public.",
-            "link":"View in Tableau"
+            "link":"https://public.tableau.com/shared/M9SBFR7HN?:display_count=n&:origin=viz_share_link"
         }
 
     ]
