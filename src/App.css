@@ -392,6 +392,10 @@ body {
     width: 100%;
     height: 100%;
   }
+
+  .ui-instagram,.ui-github,.ui-linkedin{
+    margin-right: 10px;
+  }
   /* Hero Section Style Ends */
   
   /* Projects style start */

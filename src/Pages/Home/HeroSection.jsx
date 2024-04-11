@@ -1,6 +1,6 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-import { UilInstagram, UilLinkedin, UilGithub } from '@iconscout/react-unicons';
+import { UilInstagram, UilLinkedin, UilGithub, UilWhatsapp } from '@iconscout/react-unicons';
 
 
 
@@ -48,14 +48,17 @@ export default function HeroSection() {
           </button>
         </div>
         <div className="sosmed">
-              <a href="https://www.instagram.com/adamhadip" target="_blank">
+              <a href="https://www.instagram.com/adamhadip" target="_blank" className="ui-instagram">
                 <UilInstagram/>
               </a>
-              <a href="https://www.linkedin.com/in/adamhadip" target="_blank">
+              <a href="https://www.linkedin.com/in/adamhadip" target="_blank" className="ui-linkedin">
                 <UilLinkedin/>
               </a>
-              <a href="https://www.github.com/adamhadip" target="_blank">
+              <a href="https://www.github.com/adamhadip" target="_blank" className="ui-github">
                 <UilGithub/>
+              </a>
+              <a href="https://wa.me/6281334858350" target="_blank">
+                <UilWhatsapp/>
               </a>
         </div>
       </div>

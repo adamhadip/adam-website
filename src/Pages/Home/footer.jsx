@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import React from "react";
-import { UilInstagram, UilLinkedin, UilGithub } from '@iconscout/react-unicons';
+import { UilInstagram, UilLinkedin, UilGithub, UilWhatsapp } from '@iconscout/react-unicons';
 
 function Footer() {
   return (
@@ -80,6 +80,11 @@ function Footer() {
             <li>
               <a href="https://www.github.com/adamhadip" target="_blank">
                 <UilGithub/>
+              </a>
+            </li>
+            <li>
+              <a href="https://wa.me/6281334858350" target="_blank">
+                <UilWhatsapp/>
               </a>
             </li>
           </ul>
