@@ -26,5 +26,17 @@
     {
         "title": "Excel", 
         "imagesrc": "./img/excel.png"
+    }, 
+    {
+        "title":"Jira", 
+        "imagesrc":"./img/Jira.png"
+    },
+    {
+        "title":"Google Suite",
+        "imagesrc":"./img/gsuite.png"
+    },
+    {
+        "title":"SQL",
+        "imagesrc":"./img/sql.png"
     }
 ]

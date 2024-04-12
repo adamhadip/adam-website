@@ -1,11 +1,19 @@
 {
     "experience":[
         {
+            "role":"Head of Asistant",
+            "company": "MBC Laboratory",
+            "startDate":"Aug, 2023",
+            "endDate":"Jun, 2024",
+            "desc":["Collaborated with the head of the division to create project planning and delivery Objectives Key Results (OKR), Key Performance Indicator (KPI), Individual Development Program (IDP), and ensuring alignment with organization goals and driving to outcome projects successful.","Led a team consisting of over 40+ members across five divisions, overseeing diverse roles, fostering collaboration among the divisions, and optimizing the potential of each team member."],
+            "imageSrc":"./img/MBC.png"
+        },
+        {
             "role": "Human Capital Analyst Intern", 
             "company":"Sinar Mas Land", 
             "startDate":"Dec, 2023", 
             "endDate": "Mar, 2024", 
-            "desc": ["Analyze sales data to assess marketing-generated revenue across different business segments and evaluate year-over-year performance to ascertain if targets are being met by each unit.", "Built sales dashboards using Tableau to visualize and analyze sales data across Sinar Mas Land's business units, leading to a better understanding of customer behavior and improved sales strategies."],
+            "desc": ["Analyze sales data to assess marketing-generated revenue across different business segments and evaluate year-over-year performance to ascertain if targets are being met by each unit.", "Built sales dashboards using Tableau to visualize and analyze sales data across Sinar Mas Land's business units, leading to a better understanding of customer behavior and improved sales strategies.", "Analyze and visually represent survey data pertaining to multiple events to facilitate the Human Resources team in generating comprehensive reports on the outcomes of these events."],
             "imageSrc": "./img/sinarmasland.png"
         },
         {
@@ -13,7 +21,7 @@
             "company": "PT PAL INDONESIA", 
             "startDate":"Jul, 2023",
             "endDate":"Aug, 2023",
-            "desc":["Implemented Apache Superset to develop an interactive HCM dashboard, enabling real-time tracking of key performance indicators and resulting in an 85% increase in data-driven insights for the division.", "Summarize the acquired data to be presented to division members in order to provide insights into the data and implement it for business purposes that will result in an improvement in inventory management."],
+            "desc":["Implemented Apache Superset to develop an interactive HCM dashboard, enabling real-time tracking of key performance indicators and resulting in an 85% increase in data-driven insights for the division.", "Summarize the acquired data to be presented to division members in order to provide insights into the data and implement it for business purposes that will result in an improvement in inventory management.","Summarize the acquired data to be presented to division members in order to provide insights into the data and implement it for business purposes that will result in an improvement in inventory management. q"],
             "imageSrc":"./img/ptpal.png" 
         },
         {
@@ -21,7 +29,7 @@
             "company": "PT Kimia Farma",
             "startDate":"Sep, 2022",
             "endDate":"Oct, 2022",
-            "desc":["Analyzed data from data warehousing sales, customers, and items to increase 2x medicine sales within the city will be useful in improving research, development, production, and distribution of medicine.", "Designed a dashboard to provide analysis of pharmaceutical production and sales, offering insights to the marketing team using Power BI."],
+            "desc":["Analyzed data from data warehousing sales, customers, and items to increase 2x medicine sales within the city will be useful in improving research, development, production, and distribution of medicine.", "Designed a dashboard to provide analysis of pharmaceutical production and sales, offering insights to the marketing team using Power BI.","Provided insight into the city with the highest sales and the medicine that are selling the most"],
             "imageSrc":"./img/kimiafarma.png"
         }
     ],

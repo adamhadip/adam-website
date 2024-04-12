@@ -303,6 +303,10 @@ body {
     align-self: stretch;
   }
 
+  .desc-expe{
+    margin: 1.15rem;
+  }
+
   /* Skills & About Me */
   .section--title {
     color: var(--heading-color);

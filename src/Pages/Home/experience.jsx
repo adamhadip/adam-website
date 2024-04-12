@@ -19,7 +19,7 @@ export default function Experience() {
             </div>
             <ul>
                 {item.desc.map((experience, id) => {
-                      return <li key={id}>{experience}</li>;
+                      return <li key={id} className="desc-expe">{experience}</li>;
                     })}
             </ul>
           </div>

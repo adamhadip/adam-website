@@ -24,7 +24,7 @@ export default function HeroSection() {
                 1000,
                 "Ohayou 👋🏻,",
                 1000,
-                "Willkommen 👋🏻,",
+                "Ciao 👋🏻,",
                 1000
               ]}
               wrapper="p"
