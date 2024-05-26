@@ -1,6 +1,14 @@
 {
     "experience":[
         {
+            "role":"Data Analyst Intern",
+            "company":"InfinID Indonesia",
+            "startDate":"Jun, 2024",
+            "endDate":"Current",
+            "desc":[],
+            "imageSrc":"./img/infinid.png"
+        },
+        {
             "role":"Head of Asistant",
             "company": "MBC Laboratory",
             "startDate":"Aug, 2023",
