@@ -1,11 +1,12 @@
 {
     "experience":[
         {
-            "role":"Data Analyst Intern",
+            "role":"Business Intelligence Intern",
             "company":"InfinID Indonesia",
             "startDate":"Jun, 2024",
             "endDate":"Current",
-            "desc":[],
+            "desc":["Developed a risk portfolio dashboard for historical portfolio DPD (outstanding amount and outstanding percentage), demographics customer, business improvement control for the team, tracking leading indicator, and early warning system via daily, weekly, and monthly. Delivered 3 impactful Looker Studio dashboards for reporting to OJK.","Executed ETL processes and data validation to generate actionable insights and ensure impactful dashboards, optimizing data transfer to BigQuery in < 1 minute.", "Conducted many ad-hoc analyses to service customer accounts using a payment gateway and tracked them via an interactive dashboard.",
+        "Integrated data from Airtable and Freshsales into BigQuery to extract the desired information and distribute it into interactive dashboards."],
             "imageSrc":"./img/infinid.png"
         },
         {
