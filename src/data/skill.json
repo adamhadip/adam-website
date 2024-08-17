@@ -38,5 +38,9 @@
     {
         "title":"SQL",
         "imagesrc":"./img/sql.png"
+    }, 
+    {
+        "title": "Big Querry",
+        "imagesrc":"./img/bigquery.png"
     }
 ]
